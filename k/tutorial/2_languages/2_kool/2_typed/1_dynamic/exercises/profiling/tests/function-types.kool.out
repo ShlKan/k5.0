@@ -1,0 +1,14 @@
+OK
+Done
+
+==========
+Statistics
+==========
+
+Objects created:
+   C |-> 1
+   Main |-> 1
+
+Methods invoked:
+   C.C |-> 1
+   Main.Main |-> 1

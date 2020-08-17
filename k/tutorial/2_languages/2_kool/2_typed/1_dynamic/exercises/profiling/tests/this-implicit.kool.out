@@ -1,0 +1,15 @@
+13
+
+==========
+Statistics
+==========
+
+Objects created:
+   C |-> 1
+   Main |-> 1
+
+Methods invoked:
+   C.C |-> 1
+   C.m1 |-> 1
+   C.m2 |-> 1
+   Main.Main |-> 1

@@ -1,0 +1,16 @@
+5 6
+11 0
+
+==========
+Statistics
+==========
+
+Objects created:
+   C |-> 1
+   Main |-> 1
+
+Methods invoked:
+   C.C |-> 1
+   C.add |-> 1
+   C.print2 |-> 2
+   Main.Main |-> 1
